@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taimast&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taimast)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taimast)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![wakatime](https://wakatime.com/badge/user/ec7afc8f-4931-4a4e-80ef-84bb6c853c2d.svg)](https://wakatime.com/@ec7afc8f-4931-4a4e-80ef-84bb6c853c2d)
 
