@@ -8,5 +8,5 @@
 
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&style=for-the-badge&logo=telegram&color=%2332afed)](https://t.me/taimast)
 
-![Profile views](https://gpvc.arturio.dev/[taimast])
+![Profile views](https://gpvc.arturio.dev/taimast)
 
