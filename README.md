@@ -5,8 +5,6 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taimast)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![wakatime](https://wakatime.com/badge/user/ec7afc8f-4931-4a4e-80ef-84bb6c853c2d.svg)](https://wakatime.com/@ec7afc8f-4931-4a4e-80ef-84bb6c853c2d)
-
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&style=for-the-badge&logo=telegram&color=%2332afed)](https://t.me/taimast)
-
 ![Profile views](https://gpvc.arturio.dev/taimast)
 
