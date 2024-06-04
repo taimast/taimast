@@ -1,5 +1,8 @@
 [![wakatime](https://wakatime.com/badge/user/ec7afc8f-4931-4a4e-80ef-84bb6c853c2d.svg)](https://wakatime.com/@ec7afc8f-4931-4a4e-80ef-84bb6c853c2d)
 ![](https://komarev.com/ghpvc/?username=taimast)
+[Order a project](https://taimast.ru/)
+
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&style=for-the-badge&logo=telegram&color=%2332afed)](https://t.me/taimast)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taimast&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/taimast)
