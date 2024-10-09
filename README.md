@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=taimast)
 
-[Order a project](https://taimast.ru/)
-
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&style=for-the-badge&logo=telegram&color=%2332afed)](https://t.me/taimast)
 
 <!--![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&taimast&layout=compact&&theme=default&link="https://www.github.com/taimast/")-->
