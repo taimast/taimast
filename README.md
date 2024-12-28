@@ -12,7 +12,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taimast&layout=compact&theme=tokyonight)](https://wakatime.com/@taimast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taimast&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![Activity]((https://wakatime.com/share/@taimast/63fa8562-e6a1-4245-8af9-1bdb1f4bef16.svg))]
+[![Activity](https://wakatime.com/share/@taimast/63fa8562-e6a1-4245-8af9-1bdb1f4bef16.svg)](https://wakatime.com/@taimast)
 <figure><embed src="https://wakatime.com/share/@taimast/63fa8562-e6a1-4245-8af9-1bdb1f4bef16.svg"></embed></figure>
 
 
