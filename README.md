@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/ec7afc8f-4931-4a4e-80ef-84bb6c853c2d.svg)](https://wakatime.com/@ec7afc8f-4931-4a4e-80ef-84bb6c853c2d)
-
 
 [![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&style=for-the-badge&logo=telegram&color=%2332afed)](https://t.me/taimast)
 
@@ -11,7 +9,6 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taimast&layout=compact&theme=tokyonight)](https://wakatime.com/@taimast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taimast&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![Activity](https://wakatime.com/share/@taimast/63fa8562-e6a1-4245-8af9-1bdb1f4bef16.svg)](https://wakatime.com/@taimast)
 
 
 
